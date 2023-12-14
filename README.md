@@ -29,10 +29,9 @@ I'm a long-time Open Source and Linux enthusiast who is passionate about making 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matthias-m%C3%BCller-a2b921221/) 
----
-[![](https://visitcount.itsvg.in/api?id=termuellinator&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=termuellinator&icon=0&color=12)](https://visitcount.itsvg.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matthias-m%C3%BCller-a2b921221/) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
